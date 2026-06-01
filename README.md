@@ -24,27 +24,21 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-```javascript
-const vijayAnand = {
-  name        : "A Vijay Anand",
-  location    : "Puducherry, India 📍",
-  education   : {
-    current  : "M.Tech – AI & Data Science @ SMVEC (2025–2027)",
-    previous : "B.Tech CSE @ ACET  |  7.86 CGPA"
-  },
-  stack       : ["React.js", "Node.js", "Express.js",
-                 "MongoDB", "Python", "Tailwind CSS"],
-  learning    : ["Deep Learning", "Machine Learning",
-                 "Cloud Computing (Azure)", "Data Science"],
-  experience  : "SaaS Dashboard Intern @ Ignite (7 Months)",
-  funFact     : "Built an AI Traffic System that beats rush hour 🚦",
-  motto       : () => "Build with purpose. Learn without limits. 🚀"
-};
+- 👋 Hi! I'm **Vijay Anand**, a passionate developer from **Puducherry, India**
+- 🎓 Currently pursuing **M.Tech in AI & Data Science** at SMVEC *(2025–2027)*
+- 🏫 Completed **B.Tech in CSE** from ACET with **7.86 CGPA**
+- 💼 7-Month Intern at **Ignite** — built SaaS dashboards & full-stack web apps
+- 🚦 Built an **AI-based Smart Traffic System** using Python, IoT & Embedded Systems
+- 🌱 Currently learning **Deep Learning, Machine Learning & Cloud (Azure)**
+- 💡 Love building **AI-powered, real-world applications** that actually solve problems
+- 🤝 Open to **collaborations, internships & exciting projects**
+- ⚡ Fun fact: *My AI traffic system thinks faster than rush hour!* 🚀
 
-console.log(vijayAnand.motto());
-```
+<br/>
+
+> 💬 *"Build with purpose. Learn without limits."*
 
 <br clear="right"/>
 
