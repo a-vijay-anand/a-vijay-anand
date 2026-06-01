@@ -22,16 +22,21 @@
 
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-- 👋 Hi! I'm **Vijay Anand**, a passionate developer from **Puducherry, India**
-- 🎓 Currently pursuing **M.Tech in Artificial Intelligence & Machine Learning** at **SMVEC**
-- 🏫 Graduated **B.Tech in Computer Science and Engineering** from ACET
-- 💼 7-Month Internship at **Ignite**
-- 🚦 Developer of **AI-Enhanced Traffic Lights**
-- 🌱 Learning **Deep Learning, Machine Learning, Azure Cloud & Power BI**
-- 💡 Interested in AI, Full-Stack Development and Data Science
-- 🤝 Open to internships, collaborations and research opportunities
 
-> 💬 *Build with purpose. Learn without limits.*
+- 👋 Hi! I'm **Vijay Anand**, a passionate developer from **Puducherry, India**
+- 🎓 Currently pursuing **M.Tech in AI & Data Science** at SMVEC *(2025–2027)*
+- 🏫 Completed **B.Tech in CSE** from ACET with **7.86 CGPA**
+- 💼 7-Month Intern at **Ignite** — built SaaS dashboards & full-stack web apps
+- 🚦 Built an **AI-based Smart Traffic System** using Python, IoT & Embedded Systems
+- 🌱 Currently learning **Deep Learning, Machine Learning & Cloud (Azure)**
+- 💡 Love building **AI-powered, real-world applications** that actually solve problems
+- 🤝 Open to **collaborations, internships & exciting projects**
+- ⚡ Fun fact: *My AI traffic system thinks faster than rush hour!* 🚀
+
+<br/>
+
+> 💬 *"Build with purpose. Learn without limits."*
+
 
 <br clear="right"/>
 
