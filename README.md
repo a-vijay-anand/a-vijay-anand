@@ -9,9 +9,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:avijayanand986@gmail.com">
+  <!-- <a href="mailto:avijayanand986@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
-  </a>
+  </a> -->
 </div>
 
 <p align="center">
