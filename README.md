@@ -15,7 +15,7 @@
 </div> 
 
 <p align="center">
-  font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there,+I'm+Vijay+Anand+👋;M.Tech+AIML+Student+|+SMVEC;Full-Stack+Web+Developer+🚀;Building+AI-Powered+Applications+🤖;Passionate+About+AI,+ML+and+Web+Development" />
+  
 </p>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hi+there%2C+I'm+Vijay+Anand+%F0%9F%91%8B;M.Tech+AI+%26+Data+Science+%7C+SMVEC;Full-Stack+Web+Developer+%F0%9F%9A%80;Building+AI-Powered+Applications+%F0%9F%A4%96;Passionate+About+Solving+Real-World+Problems+%F0%9F%92%A1" alt="Typing SVG" />
