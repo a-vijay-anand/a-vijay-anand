@@ -2,15 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:1a1b27,100:70a5fd&section=header&text=Vijay%20Anand&fontSize=50&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=M.Tech%20AIML%20Student%20|%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a-vijay-anand&style=flat-square&color=70a5fd&label=Profile+Views" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=a-vijay-anand&amp;style=flat-square&amp;color=70a5fd&amp;label=Profile+Views" alt="Profile Views"/>
+  &nbsp;
   <a href="https://www.linkedin.com/in/vijayanand018">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:avijayanand986@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
   </a>
-</p>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there,+I'm+Vijay+Anand+👋;M.Tech+AIML+Student+|+SMVEC;Full-Stack+Web+Developer+🚀;Building+AI-Powered+Applications+🤖;Passionate+About+AI,+ML+and+Web+Development" />
