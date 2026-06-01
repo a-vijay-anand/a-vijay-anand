@@ -1,24 +1,20 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=A%20Vijay%20Anand&fontSize=50&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Building%20Intelligent%20Web%20Experiences&descAlignY=62&descSize=18&descColor=c9d1d9" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:1a1b27,100:70a5fd&section=header&text=Vijay%20Anand&fontSize=50&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=M.Tech%20AIML%20Student%20|%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%" />
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=a-vijay-anand&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
-  &nbsp;
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=a-vijay-anand&style=flat-square&color=70a5fd&label=Profile+Views" />
   <a href="https://www.linkedin.com/in/vijayanand018">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="mailto:avijayanand986@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
 
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Vijay+Anand+%F0%9F%91%8B;M.Tech+AI+%26+Data+Science+%7C+SMVEC;Full-Stack+Web+Developer+%F0%9F%9A%80;Building+AI-Powered+Applications+%F0%9F%A4%96;Passionate+About+Solving+Real-World+Problems+%F0%9F%92%A1" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there,+I'm+Vijay+Anand+👋;M.Tech+AIML+Student+|+SMVEC;Full-Stack+Web+Developer+🚀;Building+AI-Powered+Applications+🤖;Passionate+About+AI,+ML+and+Web+Development" />
+</p>
 
 ---
 
@@ -27,18 +23,15 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 👋 Hi! I'm **Vijay Anand**, a passionate developer from **Puducherry, India**
-- 🎓 Currently pursuing **M.Tech in AI & Data Science** at SMVEC *(2025–2027)*
-- 🏫 Completed **B.Tech in CSE** from ACET with **7.86 CGPA**
-- 💼 7-Month Intern at **Ignite** — built SaaS dashboards & full-stack web apps
-- 🚦 Built an **AI-based Smart Traffic System** using Python, IoT & Embedded Systems
-- 🌱 Currently learning **Deep Learning, Machine Learning & Cloud (Azure)**
-- 💡 Love building **AI-powered, real-world applications** that actually solve problems
-- 🤝 Open to **collaborations, internships & exciting projects**
-- ⚡ Fun fact: *My AI traffic system thinks faster than rush hour!* 🚀
+- 🎓 Currently pursuing **M.Tech in Artificial Intelligence & Machine Learning** at **SMVEC**
+- 🏫 Graduated **B.Tech in Computer Science and Engineering** from ACET
+- 💼 7-Month Internship at **Ignite**
+- 🚦 Developer of **AI-Enhanced Traffic Lights**
+- 🌱 Learning **Deep Learning, Machine Learning, Azure Cloud & Power BI**
+- 💡 Interested in AI, Full-Stack Development and Data Science
+- 🤝 Open to internships, collaborations and research opportunities
 
-<br/>
-
-> 💬 *"Build with purpose. Learn without limits."*
+> 💬 *Build with purpose. Learn without limits.*
 
 <br clear="right"/>
 
