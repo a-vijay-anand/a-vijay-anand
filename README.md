@@ -118,11 +118,11 @@
 
 ---
 
-## 📈 3D Contribution Calendar
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/example/profile-season-animate.svg"/>
+<img src="https://raw.githubusercontent.com/a-vijay-anand/a-vijay-anand/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </div>
 
