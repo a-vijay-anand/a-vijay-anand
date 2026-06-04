@@ -97,11 +97,13 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 📈 Productivity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=a-vijay-anand&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a-vijay-anand&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a-vijay-anand&theme=tokyonight"/>
 
 </div>
 ---
