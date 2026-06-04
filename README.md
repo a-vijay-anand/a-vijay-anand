@@ -101,10 +101,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=a-vijay-anand&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=a-vijay-anand&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </div>
-
 ---
 
 ## 📈 Contribution Activity
