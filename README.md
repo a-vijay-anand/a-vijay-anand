@@ -1,4 +1,4 @@
-<p align="center">
+    <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:1a1b27,100:70a5fd&section=header&text=Vijay%20Anand&fontSize=50&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=M.Tech%20AIML%20Student%20|%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%" />
 </p>
 
@@ -83,15 +83,16 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/a-vijay-anand">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a-vijay-anand&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/a-vijay-anand">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-vijay-anand&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=a-vijay-anand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=a-vijay-anand&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
@@ -99,7 +100,9 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=a-vijay-anand&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+
+<img src="https://streak-stats.demolab.com/?user=a-vijay-anand&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
@@ -107,7 +110,9 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-vijay-anand&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=a-vijay-anand&theme=tokyo-night&hide_border=true&area=true"/>
+
 </div>
 
 ---
@@ -115,7 +120,9 @@
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a-vijay-anand&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=a-vijay-anand&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+
 </div>
 
 ---
