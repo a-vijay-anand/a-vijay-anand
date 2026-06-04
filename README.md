@@ -122,7 +122,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=a-vijay-anand&theme=onedark" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=a-vijay-anand&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
