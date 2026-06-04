@@ -1,4 +1,5 @@
-    <p align="center">
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:1a1b27,100:70a5fd&section=header&text=Vijay%20Anand&fontSize=50&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=M.Tech%20AIML%20Student%20|%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%" />
 </p>
 
