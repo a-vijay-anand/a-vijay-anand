@@ -97,11 +97,11 @@
 
 ---
 
-## 📊 Profile Summary
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-vijay-anand&theme=tokyonight"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=a-vijay-anand&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 ---
